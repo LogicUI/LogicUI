@@ -1,4 +1,4 @@
-<h1 align="center">John Wee <sub>(LogicUI)</sub> 👋</h1>
+<h1 align="center">John Wee (LogicUI)👋</h1>
 <p align="center">
   <samp>Full-stack dev from Singapore • Indie hacker • Eternal student of code & AI</samp>
 </p>
