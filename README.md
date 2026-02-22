@@ -44,7 +44,7 @@ Presented at **Vibe Coding Jam** & **AI Singapore**.
 - 📦 Repo: https://github.com/LogicUI/Blank-Desktop-Journal  
 - 🎥 Demo / write-up:  
   https://www.linkedin.com/posts/john-wee-352274151_buildinpublic-react-zustand-activity-7359923995934183424-LqsJ
-
+  https://www.linkedin.com/posts/john-wee-352274151_vibe-coding-nights-2nd-jam-session-recap-activity-7357763031763701760-tt9U?utm_source=share&utm_medium=member_desktop&rcm=ACoAACSGO-4B-KlRd3GRm1rZoF1Mp5C9iAjN5_E
 ---
 
 ### 🛠 Tech I actually use
