@@ -15,6 +15,16 @@
 
 ---
 
+### 🧪 Currently
+**Founding Engineer** at **Edge Agentic Labs**  
+Building **Genesis1 (v1)** — a MedTech product with **full ownership**, end-to-end.
+
+- Sole owner of architecture, frontend, backend, and cloud infra  
+- Shipping from zero → production  
+- Startup is **incubated by SMU**
+
+---
+
 ### 🧠 What I do
 I build and ship products **end-to-end**.  
 Frontend-heavy by instinct, full-stack by necessity.
@@ -43,10 +53,10 @@ Presented at **Vibe Coding Jam** & **AI Singapore**.
 
 - 📦 Repo: https://github.com/LogicUI/Blank-Desktop-Journal  
 - 🎥 Demo / write-up:  
-  https://www.linkedin.com/posts/john-wee-352274151_buildinpublic-react-zustand-activity-7359923995934183424-LqsJ
-  https://www.linkedin.com/posts/john-wee-352274151_vibe-coding-nights-2nd-jam-session-recap-activity-7357763031763701760-tt9U?utm_source=share&utm_medium=member_desktop&rcm=ACoAACSGO-4B-KlRd3GRm1rZoF1Mp5C9iAjN5_E
----
+  https://www.linkedin.com/posts/john-wee-352274151_buildinpublic-react-zustand-activity-7359923995934183424-LqsJ  
+  https://www.linkedin.com/posts/john-wee-352274151_vibe-coding-nights-2nd-jam-session-recap-activity-7357763031763701760-tt9U
 
+---
 
 ### 🏆 Hackathons & Competitions
 
@@ -65,6 +75,8 @@ Top 8 finalist at HackOMania, focused on climate & sustainability solutions.
 - 📦 Repo: https://github.com/LogicUI/hackOManiaCarbon  
 - 🔗 Write-up:  
   https://www.linkedin.com/posts/john-wee-352274151_hackamania-climatechange-innovation-activity-7182893014254592000-HqFJ
+
+---
 
 ### 🛠 Tech I actually use
 <p>
