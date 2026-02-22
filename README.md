@@ -47,6 +47,25 @@ Presented at **Vibe Coding Jam** & **AI Singapore**.
   https://www.linkedin.com/posts/john-wee-352274151_vibe-coding-nights-2nd-jam-session-recap-activity-7357763031763701760-tt9U?utm_source=share&utm_medium=member_desktop&rcm=ACoAACSGO-4B-KlRd3GRm1rZoF1Mp5C9iAjN5_E
 ---
 
+
+### 🏆 Hackathons & Competitions
+
+#### 🥈 AI Hackathon — 2nd Place (May 2024)
+Placed **2nd out of 100 teams** in an AI hackathon challenge.
+
+- 📦 Repo: https://github.com/LogicUI/ai-hackaton  
+- 🔗 Write-up:  
+  https://www.linkedin.com/posts/john-wee-352274151_came-in-2nd-in-a-hackaton-challenge-activity-7193060755443707904-eVVu
+
+---
+
+#### 🏅 HackOMania — Top 8 (March 2024)
+Top 8 finalist at HackOMania, focused on climate & sustainability solutions.
+
+- 📦 Repo: https://github.com/LogicUI/hackOManiaCarbon  
+- 🔗 Write-up:  
+  https://www.linkedin.com/posts/john-wee-352274151_hackamania-climatechange-innovation-activity-7182893014254592000-HqFJ
+
 ### 🛠 Tech I actually use
 <p>
   <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js%20%7C%20TypeScript-61dafb?style=flat&logo=react&logoColor=black" />
