@@ -19,9 +19,11 @@
 **Founding Engineer** at **Edge Agentic Labs**  
 Building **Genesis1 (v1)** — a MedTech product with **full ownership**, end-to-end.
 
-- Sole owner of architecture, frontend, backend, and cloud infra  
-- Shipping from zero → production  
-- Startup is **incubated by SMU**
+- 🌐 Company: https://edgeagenticlabs.com/  
+- 🏢 Entity: https://www.bizfile.gov.sg/buy-info/entity-details/202449790Z  
+- 🧠 Sole owner of architecture, frontend, backend, and cloud infra  
+- 🚀 Shipping from zero → production  
+- 🎓 Startup incubated by **SMU**
 
 ---
 
